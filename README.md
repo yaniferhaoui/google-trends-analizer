@@ -3,7 +3,7 @@ Google Trends Analyzer
 
 Two simple programs which working in the aim to collects Google Trends data and draw them in a synthetic graph !
 
-With the actually configuration, data have been collected since 2017 up to today for each words written in the file words.csv, but you can change this at the end of the file csv-generator.py !
+With the actually configuration, data have been collected since 2017 up to today for each words written in the file words.csv, but you can change this at the end of the csv-generator.py file !
 
 Python: Data Mining
 --------
