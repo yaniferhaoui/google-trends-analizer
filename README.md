@@ -43,12 +43,8 @@ You have to add them to the words.csv file:
 
 ### Example outputs
 <h1 align="center">
-```html
-<img src="https://imgur.com/4sKfg5j">
-```
+  <img src="https://imgur.com/4sKfg5j">
 </h1>
 <h1 align="center">
-```html
-<img src="https://imgur.com/kw6b0yC">
-```
+  <img src="https://imgur.com/kw6b0yC">
 </h1>
