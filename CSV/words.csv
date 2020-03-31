@@ -1,0 +1,51 @@
+word,ratio,related
+blockchain,4,neutral
+crypto currency,3,neutral
+cryptocurrency,5,neutral
+cryptocurrency news,3,neutral
+Kraken,3,neutral
+binance,3,neutral
+coinmarketcap,3,neutral
+bitcoin,5,bitcoin
+btc,4,bitcoin
+btceur,2,bitcoin
+xbteur,2,bitcoin
+btcusd,2,bitcoin
+xbtusd,2,bitcoin
+bitcoin price,4,bitcoin
+ethereum,5,ethereum
+eth,4,ethereum
+etheur,2,ethereum
+ethusd,2,ethereum
+ethereum price,4,ethereum
+ripple,4,ripple
+xrp,4,ripple
+xrpeur,2,ripple
+xrpusd,2,ripple
+ripple price,4,ripple
+bitcoin cash,5,bitcoin cash
+bch,4,bitcoin cash
+bcheur,2,bitcoin cash
+bchusd,2,bitcoin cash
+bitcoin cash price ,4,bitcoin cash
+eos,4,eos
+eos price,3,eos
+eosusd,1,eos
+stellar,5,stellar
+xlm,4,stellar
+xlmusd,2,stellar
+stellar price,4,stellar
+litecoin,5,litecoin
+ltc,4,litecoin
+ltceur,2,litecoin
+ltcusd,2,litecoin
+litecoin price,4,litecoin
+binance coin,4,binance coin
+bnb,3,binance coin
+bnbeur,1,binance coin
+bnbusd,1,binance coin
+binance coin price,1,binance coin
+facebook coin,5,facebook coin
+libra,4,facebook coin
+globalcoin,3,facebook coin
+glc,1,facebook coin
