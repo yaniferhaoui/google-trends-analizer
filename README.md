@@ -41,7 +41,7 @@ You have to add them to the words.csv file:
  - related column is the big word that the current word is related to. Example: BTCUSD is related to Bitcoin
 ```
 
-### Example outputs
+### Output Examples
 <h1 align="center">
   <img src="https://i.imgur.com/4sKfg5j.png">
 </h1>
