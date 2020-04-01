@@ -10,7 +10,7 @@ Python: Data Mining
 ```
  - csv-generator.py: Get all data and store them in the folder csv-google-trends-output
  - Package embedded: pytrends
- - Package that needs to be installed: pytz => pip3 install pytz
+ - Package that needs to be installed: pytz, pandas => pip3 install {package_name}
 ```
 
 Java: Calculation and Drawing
